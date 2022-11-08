@@ -1,5 +1,3 @@
-console.log("Hola Edwin")
-
 const nombre= 'Edwin';
 const apellido= 'Pinchao';
 
