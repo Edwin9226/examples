@@ -6,11 +6,11 @@ import { heroes } from './data';
 
 console.log(heroes);
 
-const getHeroeById=(ids)=>{
+const getHeroeById1=(ids)=>{
     return heroes.find(({id})=> id === ids);
 }
 
-console.log(getHeroeById(2));
+console.log(getHeroeById1(2));
 
 const getHeroeByOwner =(owner1)=>{
     return heroes.filter(({owner})=> owner === owner1);
