@@ -1,6 +1,6 @@
 import { getHeroeById } from "../base/09-imports-exports-mul";
 
-console.log("Hola Edwin")
+
 
 //Promessas
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
